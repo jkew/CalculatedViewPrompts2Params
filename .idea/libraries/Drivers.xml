@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Drivers">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Library/Tableau/Drivers" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Library/Tableau/Drivers" recursive="false" />
+  </library>
+</component>

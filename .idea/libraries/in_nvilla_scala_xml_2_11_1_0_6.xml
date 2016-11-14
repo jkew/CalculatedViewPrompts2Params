@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="in.nvilla:scala-xml_2.11:1.0.6" type="repository">
+    <properties maven-id="in.nvilla:scala-xml_2.11:1.0.6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-xml_2.11-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
